@@ -34,7 +34,7 @@ phishing-url-detection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phishing-url-detection.git
+   git clone [https://github.com/vijayKumar7909/phishing-url-detection.git]
    cd phishing-url-detection
 
    
